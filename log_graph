@@ -1,13 +1,19 @@
-* commit 9f6d75a (HEAD -> master, origin/master, origin/HEAD)
+* commit cb3cfa1 (HEAD -> master)
 | Author: Tarun <gambhirtarun555@students.itu.edu>
-| Date:   3 minutes ago
+| Date:   57 seconds ago
+| 
+|     add log file and update readme
+|  
+* commit 9f6d75a (origin/master, origin/HEAD)
+| Author: Tarun <gambhirtarun555@students.itu.edu>
+| Date:   5 minutes ago
 | 
 |     add log file
 |    
 *   commit 356da4b
 |\  Merge: d4fdba1 b0f19cf
 | | Author: tarun-itu <gambhirtarun555@students.itu.edu>
-| | Date:   7 minutes ago
+| | Date:   8 minutes ago
 | | 
 | |     Merge pull request #2 from tarun-itu/first-branch
 | |     
@@ -15,14 +21,14 @@
 | |   
 | * commit b0f19cf (origin/first-branch, first-branch)
 |/  Author: Tarun <gambhirtarun555@students.itu.edu>
-|   Date:   23 minutes ago
+|   Date:   24 minutes ago
 |   
 |       second commit
 |    
 *   commit d4fdba1
 |\  Merge: 1ed3ec6 0b4c2a0
 | | Author: tarun-itu <gambhirtarun555@students.itu.edu>
-| | Date:   11 minutes ago
+| | Date:   12 minutes ago
 | | 
 | |     Merge pull request #1 from tarun-itu/second-branch-from-commit
 | |     
@@ -30,18 +36,18 @@
 | |   
 | * commit 0b4c2a0 (origin/second-branch-from-commit, second-branch-from-commit)
 | | Author: Tarun <gambhirtarun555@students.itu.edu>
-| | Date:   19 minutes ago
+| | Date:   21 minutes ago
 | | 
 | |     commit from commit
 | |   
 | * commit 8ae17ca
 |/  Author: Tarun <gambhirtarun555@students.itu.edu>
-|   Date:   26 minutes ago
+|   Date:   27 minutes ago
 |   
 |       first commit
 |  
 * commit 1ed3ec6
   Author: tarun-itu <gambhirtarun555@students.itu.edu>
-  Date:   29 minutes ago
+  Date:   30 minutes ago
   
       Initial commit
